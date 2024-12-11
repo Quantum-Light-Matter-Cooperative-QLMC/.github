@@ -1,2 +1,0 @@
-# .github
-Landing page repo
