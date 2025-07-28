@@ -30,7 +30,7 @@ biochemistry, quantum optics and information sciences, environmental and chemica
 
 **Prof. Sergio Carbajo,**  
 
-Assistant Professor, ECE, UCLA.
+Professor, ECE, UCLA.
 
 [Webpage](https://samueli.ucla.edu/people/sergio-carbajo/)
 
