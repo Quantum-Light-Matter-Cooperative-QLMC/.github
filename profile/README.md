@@ -72,7 +72,7 @@ We actively collaborate with both academic and industrial partners, including:
 
 Stay updated on our latest research, events, and opportunities:
 
-[![X (Twitter) Follow](https://img.shields.io/badge/X%20%28Twitter%29-Follow%20%40QLMC-blue?style=flat-square&logo=twitter)](https://x.com/lightmattercoop)  
+![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)(https://bsky.app/profile/lightmattercoop.bsky.social)  
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/company/qlmc)
 
 You can also reach out via [Email](mailto:scarbajo@g.ucla.edu) or visit our [Group Website](https://light-matter.seas.ucla.edu/).
