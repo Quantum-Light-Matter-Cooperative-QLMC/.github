@@ -30,11 +30,9 @@ biochemistry, quantum optics and information sciences, environmental and chemica
 
 **Prof. Sergio Carbajo,**  
 
-Professor, ECE, UCLA.
+Professor, Electrical & Computer Engineering and Physics & Astronomy Departments, UCLA; SLAC National Accelerator Laboratory, Stanford University
 
 [Webpage](https://samueli.ucla.edu/people/sergio-carbajo/)
-
-
 
 ---
 
@@ -64,7 +62,6 @@ We actively collaborate with both academic and industrial partners, including:
 - [Linac Coherent Light Source](https://lcls.slac.stanford.edu/)
 - [California Nanosystems Institute](https://cnsi.ucla.edu/)
 - [Center for Quantum Science and Engineering](https://www.cqse.ucla.edu/)
-
 
 ---
 
